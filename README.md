@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am currently looking for my next opportunity on the job market and looking forward to connecting!
+I am currently looking for my next opportunity on the job market where I can apply the quantitative and qualitative skills I have gained in my academic and work experience. I am looking forward to connecting!
 
 ## Education ✨
 - **M.A. Economics** - University of California, Irvine (Dec. 2025)
