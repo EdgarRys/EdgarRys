@@ -7,7 +7,7 @@ I am currently looking for my next opportunity on the job market and looking for
 - **B.A. Economics** - The University of Texas at Austin (2018)
 
 ## Work Experience ✨
-Former Economic Research Analyst at the Federal Reserve Bank of Atlanta (2021-2024) where I contributed to the development of the [Policy Rules Database (PRD)](https://github.com/EdgarRys/policy-rules-database) as part of the [Atlanta Fed's Advancing Careers Initiative](https://www.atlantafed.org/economic-mobility-and-resilience/advancing-careers-for-low-income-families). Additionally, my responsibilites also included data collection, data and statistical analysis, database management, research, and presentations.
+Former Economic Research Analyst at the Federal Reserve Bank of Atlanta (2021-2024) where I contributed to the development of the [Policy Rules Database (PRD)](https://github.com/Research-Division/policy-rules-database) as part of the [Atlanta Fed's Advancing Careers Initiative](https://www.atlantafed.org/economic-mobility-and-resilience/advancing-careers-for-low-income-families). Additionally, my responsibilites also included data collection, data and statistical analysis, database management, research, and presentations.
 
 ## Skills & Professional Development ✨
 - **Tools:** Python, R, Stata
