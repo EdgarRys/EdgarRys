@@ -19,7 +19,7 @@ Former Economic Research Analyst at the Federal Reserve Bank of Atlanta (2021-20
 - **Music:** Big fan of modern Latin music, traditional and modern Mexican music, and I also enjoy EDM/House, R&B, and rap
   - Top artists of 2025: Bad Bunny, Karol G, Feid 🎵
   - 41,000+ minutes (28 days) listened 🎧
-  - [my very rough draft of ranking Bad Bunny's discography](https://docs.google.com/document/d/1Ln-Yi4hNNxkfL1qQ_9XlJ1dbrNaqgMCaZeNc3pdWf-A/edit?usp=sharing) 📝
+  - [My Substack post ranking Bad Bunny's albums](https://open.substack.com/pub/musicreyview/p/bad-bunny-in-depth?r=6xgynu&utm_campaign=post&utm_medium=web) 📝
 
 
 
